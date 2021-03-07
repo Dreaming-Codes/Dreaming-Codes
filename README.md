@@ -3,4 +3,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreaming-Codes&layout=compact&theme=default&hide=cmake,makefile)](https://github.com/Dreaming-Codes)
 
 - [x] Fivem/cfx SCRIPTER
-- [x] Minecrat modder
+- [x] Minecraft modder

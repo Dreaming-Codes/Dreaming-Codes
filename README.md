@@ -2,8 +2,7 @@
 
 Programming languages I like to use:
 - Rust
-- JavaScript
-- TypeScript
+- JavaScript / TypeScript
 - Java
 - Kotlin
 

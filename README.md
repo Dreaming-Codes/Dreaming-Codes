@@ -11,6 +11,8 @@ Programming languages I know but generally don't like:
 - C#
 - Python
 - Lua
+- PHP
+- Go
 
 
 

@@ -1,4 +1,4 @@
-17 y/o boy who simply enjoys programming.
+18 y/o boy who simply enjoys programming.
 
 Programming languages I like to use:
 - Rust

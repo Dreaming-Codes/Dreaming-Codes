@@ -19,6 +19,7 @@ Here are a few projects I've worked on recently:
 
 - [Discord Source](https://github.com/Dreaming-Codes/discord-source): A Tauri, Rust based application for embedding discord video streams in OBS and other similar streaming softwares.
 - [Tuxphones](https://github.com/ImTheSquid/Tuxphones): A Rust based application for Screensharing Audio on Discord for Linux.
+- [WebRTC Redux](https://github.com/ImTheSquid/gst-webrtcredux): A [GStreamer](https://gstreamer.freedesktop.org/) plugin for streaming video and audio using [WebRTC.rs](https://webrtc.rs/)
 - [Endgame Mod](https://github.com/EndgameDevs/endgamemod): An endgame Minecraft mod.
 
 ## Contact

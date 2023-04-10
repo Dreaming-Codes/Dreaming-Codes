@@ -25,3 +25,5 @@ Here are a few projects I've worked on recently:
 ## Contact
 
 If you'd like to chat about programming, gaming, or anything else that interests you, feel free to reach out to me on Discord (@DreamingCodes#6666).<br>You can also find my contact information on my website: https://dreaming.codes.
+
+<iframe src="https://discord.com/widget?id=1093290924357996626&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>

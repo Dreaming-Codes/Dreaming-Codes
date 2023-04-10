@@ -2,7 +2,7 @@
 
 I'm an 18-year-old full-stack developer with a passion for building innovative applications and exploring new technologies. I'm most comfortable with Rust, JavaScript/TypeScript, and Java, and I enjoy using these languages to build robust, scalable software.
 
-In particular, I love Rust for its performance and safety guarantees, and TypeScript for its strong typing and ease of use. I also have experience with the following languages, but generally don't enjoy working with them:
+In particular, I love Rust 🦀 for its performance and safety guarantees, and TypeScript for its strong typing and ease of use. I also have experience with the following languages, but generally don't enjoy working with them:
 
 - C++
 - C#

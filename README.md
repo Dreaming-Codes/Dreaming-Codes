@@ -11,7 +11,7 @@ In particular, I love Rust 🦀 for its performance and safety guarantees, and T
 - PHP
 - Go
 
-I enjoy creating Minecraft mods and Fivem/Cfx scripts. I'm also looking forward to the release of Hytale and hope to become a modder for that game as well!
+I enjoy creating Minecraft mods ~and Fivem/Cfx scripts~. I'm also looking forward to the release of Hytale and hope to become a modder for that game as well!
 
 ## Projects
 

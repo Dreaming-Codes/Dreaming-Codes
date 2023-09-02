@@ -21,6 +21,7 @@ Here are a few projects I've worked on recently:
 - [Tuxphones](https://github.com/ImTheSquid/Tuxphones): A Rust based application for Screensharing Audio on Discord for Linux.
 - [WebRTC Redux](https://github.com/ImTheSquid/gst-webrtcredux): A [GStreamer](https://gstreamer.freedesktop.org/) plugin for streaming video and audio using [WebRTC.rs](https://webrtc.rs/)
 - [Endgame Mod](https://github.com/EndgameDevs/endgamemod): An endgame Minecraft mod.
+- [DiscordLoom mod](https://github.com/Dreaming-Codes/discordloom): Create a direct link between your Minecraft fabric server and Discord servers with DiscordLoom, ensuring only whitelisted players have access.
 
 ## Contact
 

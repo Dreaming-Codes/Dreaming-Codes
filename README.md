@@ -23,6 +23,8 @@ Here are a few projects I've worked on recently:
 - [Endgame Mod](https://github.com/EndgameDevs/endgamemod): An endgame Minecraft mod.
 - [DiscordLoom mod](https://github.com/Dreaming-Codes/discordloom): Create a direct link between your Minecraft fabric server and Discord servers with DiscordLoom, ensuring only whitelisted players have access.
 
+[![DreamingCodes's GitHub | Languages Over Time](https://stats.quine.sh/DreamingCodes/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DreamingCodes)
+
 ## Contact
 
 If you'd like to chat about programming, gaming, or anything else that interests you, feel free to reach out to me on Discord (@DreamingCodes#6666).<br>You can also find my contact information on my website: https://dreaming.codes.

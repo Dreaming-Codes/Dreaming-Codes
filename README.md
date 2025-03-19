@@ -10,6 +10,7 @@ In particular, I love **Rust** 🦀 for its performance and safety guarantees, a
 - Lua
 - PHP
 - Go
+- Dart
 
 I enjoy creating Minecraft mods ~and Fivem/Cfx scripts~. I'm also looking forward to the release of Hytale and hope to become a modder for that game as well!
 
